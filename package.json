@@ -1,0 +1,34 @@
+{
+  "name": "iot-dev",
+  "version": "0.0.0",
+  "description": "Development tooling for ESP-IDF",
+  "main": "index.js",
+  "bin": {
+    "iot-dev": "bin.js"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/like/iot-dev.git"
+  },
+  "author": "1337",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/like/iot-dev/issues"
+  },
+  "homepage": "https://github.com/like/iot-dev#readme",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "dependencies": {
+    "cmake-runtime": "^3.29.3",
+    "commander": "^12.1.0",
+    "safety-catch": "^1.0.2"
+  }
+}
