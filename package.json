@@ -1,6 +1,6 @@
 {
   "name": "iot-dev",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Development tooling for ESP-IDF",
   "main": "index.js",
   "bin": {
