@@ -22,6 +22,7 @@ Commands:
   build [options]            compile the project
   flash [options] [build]    write a firmware to device
   elf_hash [options] <file>  read the ELF hash from a binary
+  menuconfig                 open configuration menu
   help [command]             display help for command
 ```
 

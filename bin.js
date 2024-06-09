@@ -12,6 +12,7 @@ const main = program
   .addCommand(require('./bin/build.js'))
   .addCommand(require('./bin/flash.js'))
   .addCommand(require('./bin/elf-hash.js'))
+  .addCommand(require('./bin/menuconfig.js'))
 
 main.parseAsync().catch(err => {
   safetyCatch(err)
