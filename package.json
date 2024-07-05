@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/like/iot-dev.git"
+    "url": "git+https://github.com/lukks/iot-dev.git"
   },
-  "author": "1337",
+  "author": "Lucas Barrena (LuKks)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/like/iot-dev/issues"
+    "url": "https://github.com/lukks/iot-dev/issues"
   },
-  "homepage": "https://github.com/like/iot-dev#readme",
+  "homepage": "https://github.com/lukks/iot-dev#readme",
   "devDependencies": {
     "standard": "^17.1.0"
   },
